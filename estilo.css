@@ -1,0 +1,136 @@
+*{
+    margin:0;
+    
+}
+ul{
+    background-color:#18181c;
+    position: relative;
+    bottom:10px;
+    width: 260px;
+    height: 600px;
+}
+
+
+
+.nome{
+    position: absolute;
+    top:50px;
+    left:55px;
+    display:inline;
+}
+li{
+    color:white;
+    list-style: none;
+    position: relative;
+    top:100px;
+    font-size:1em;
+    font-family: sans-serif;
+    padding-top: 15px;
+    padding-bottom:15px;
+    
+}
+li:hover{
+    background-color:#99896e;
+    transition: 0.6s;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+
+p{
+    color:#99896e;
+    font-family: sans-serif;
+    position:relative;
+    bottom:140px;
+    font-size:1.1em;
+    display:inline;
+}
+.list2{
+    color:white;
+    list-style: none;
+    position: relative;
+    top:-80px;
+    font-size:1em;
+    font-family: sans-serif;
+    padding-top: 15px;
+    padding-bottom:15px;
+    left:1px;
+}
+
+div{
+    position: relative;
+    left: 100px;
+    display: inline;
+    bottom:300px;
+}
+#caraandando{
+    position: relative;
+    left: 300px;
+    bottom:870px;
+   max-height: 660px;
+   
+   
+  
+   
+}
+
+
+#monumento{
+    position:relative;
+    bottom:1200px;
+    left:296px;
+   max-height:330px;
+   
+}
+#ceu{
+    position: relative;
+    bottom:1200px;
+    left:292px;
+    max-height: 330px;
+   
+}
+#parede{
+    position:relative;
+    bottom:870px;
+    right:702px;
+    height: 330px;
+   
+}
+#alasca{
+    position:relative;
+    left:960px;
+    height: 330px;
+    bottom:1204px;
+
+    
+}
+#menina{
+    position:relative;
+    left:956px;
+    height: 330px;
+    bottom:1204px;
+
+  
+}
+#mulheres{
+    position:relative;  
+    bottom:874px;
+   right:368px;
+   height: 330px;
+   
+}
+#mao{
+    position:relative;  
+    bottom:874px;
+   right:372px;
+   height: 330px;
+}
+#predio{
+    position:relative;
+    bottom:1208px;
+    left:960px;
+    height: 330px;
+}
+
+
